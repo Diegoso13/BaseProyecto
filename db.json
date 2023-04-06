@@ -1,0 +1,28 @@
+{
+    "inventario": [
+        {
+            "id_producto": 1,
+            "nombre": "Holstein",
+            "des_producto":"También conocida como vaca frisona, procede de regiones bajas de Sajonia y SchlewiwgHolstein , en Alemania y Paises bajos.Se destaca por su gran producción de leche aunque con menor tenor graso que las demás razaslecheras .Es de gran tamaño, tiene pelaje blanco con manchas negras, cuernos medianos,extremidades blancas y buena adaptabilidad al hábitat.",
+            "stock": 17,
+            "valor":2300000 ,
+            "imagen":"https://secure.ganaderia.com/razas/Raza593195a9bf291_02062017.jpg"
+        },
+        {
+            "id_producto": 2,
+            "nombre": "Brahaman",
+            "des_producto":"La raza de ganado brahman tiene su origen en el ganado cebú llevado originariamente a los Estados Unidos de América proveniente de la India.El brahman se caracteriza por una gran capacidad notable de adaptación y supervivencia. Puede alimentarse con pastos inadecuados y es muy resistente a pestes de insectos, parásitos, enfermedades y a climas extremos." ,
+            "stock":15 ,
+            "valor":1800000 ,
+            "imagen":"https://secure.ganaderia.com/razas/Raza5931889151cc4_02062017.jpg"
+        },
+        {
+            "id_producto": 3,
+            "nombre":"Jersey",
+            "des_producto":"Jersey es una raza de ganado vacuno británico productor de leche, de pelaje marrón claro, es famosa por el alto contenido graso de su leche y por la docilidad de sus vacas." ,
+            "stock":16 ,
+            "valor":1500000 ,
+            "imagen":"https://s3.amazonaws.com/croperblog/2021/02/Ganado-Jersey.png"
+        }
+    ]
+}
